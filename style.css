@@ -1,5 +1,6 @@
-html,body{	background-color: Magenta;
+html,body {
 }
 
-.maintext{	font-family: Verdana, Geneva, Sans-Serif;
+p.maintxt {
+	font-family: Arial, Helvetica, sans-serif;
 }
